@@ -1,2 +1,2 @@
-# Project name: Meteostation
+# Project Meteostation
 IOT PROJECT 2026
