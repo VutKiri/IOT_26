@@ -4,9 +4,9 @@ IOT PROJECT 2026
 ____________________________________________________________________________________________________
 ## Zadanie:
 Naprogramujte a zprovozněte bezdrátovou meteostanici pro měření povětrnostních podmínek jako je teplota a vlhkost. Předpokládejte:
-### • Nasazení meteostanice na starém meteorologickém stožáru, nejméně ve výšce 10 m nad zemí.
-### • Lokalita stožáru v oblastech bez přístupu ke konvenčním metodám připojení (les, odlehlé budovy, pole).
-### • Stožár je vybaven silnoproudým rozvodem, avšak datové rozvody nejsou přítomny.
+#### • Nasazení meteostanice na starém meteorologickém stožáru, nejméně ve výšce 10 m nad zemí.
+#### • Lokalita stožáru v oblastech bez přístupu ke konvenčním metodám připojení (les, odlehlé budovy, pole).
+#### • Stožár je vybaven silnoproudým rozvodem, avšak datové rozvody nejsou přítomny.
 ____________________________________________________________________________________________________
 Meteostanice bude odesílat v definovaných intervalech hodnoty o daných veličinách (teplota, vlhkost, rychlost větru) na vzdálený server, stejně jako údaje a parametry relevantní pro daný rádiový kanál zvolené technologie.
 #### • WiFi – RSSI
