@@ -1,4 +1,4 @@
-# BPC-IoT Projekt #1 – Bezdrôtová Meteostanica
+# BPC-IoT Projekt #1 – Meteostanica
 
 ## Popis projektu
 Autonómny systém na zber meteorologických a diagnostických údajov z odľahlých lokalitách bez existujúcej dátovej infraštruktúry.
