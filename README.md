@@ -34,7 +34,7 @@ Autonómny systém na zber meteorologických a diagnostických údajov z odľahl
 
 ## Rýchla konfigurácia
 Konfigurácia prístupu sa vykonáva priamo v hlavnom skripte `Main_Meteo_JKKK.py` úpravou premennej:
-* **Thingsboard Token:** `token = "VÁŠ_THINGSBOARD_TOKEN"`
+* **Thingsboard Token:** `token = "VgEuJgBrVmg7NBmWqxl7"`
 * **Server IP:** `147.229.148.105` (preddefinovaná v AT príkazoch)
 * **CoAP Port:** `5683` (preddefinovaný v AT príkazoch)
 
